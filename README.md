@@ -1,4 +1,4 @@
-# Billboard Genie
+# Billboard Genie 
 
 Billboard Genie is a comprehensive traffic monitoring and vehicle counting system designed to streamline real-time traffic analysis using a live CCTV stream.
 
